@@ -1,2 +1,11 @@
 # unsteam
-Teach how to start the game(on steam) without steam
+该教程仅供项目交流使用，无不良引导，旨在说明如何绕过steam启动steam上的游戏，以将游戏带到其他电脑上启动。  
+下面开始教程。  
+## 一、可以直接启动的。  
+找到：
+    
+    \Steam安装目录\steamapps\common\游戏A名称\
+文件夹，双击里面的游戏A.exe文件，可以在steam未启动的状态下直接启动游戏A。  
+举例：桐叶的宝石心。  
+这种就是没验证的游戏，可以直接拷贝带走。
+## 二
