@@ -10,7 +10,8 @@
 这种就是没验证的游戏，可以直接拷贝带走。
 ## 二、Steamless剥壳  
 下载Steamless的最新Releases并解压，得到Steamless程序。  
-![image](https://github.com/user-attachments/assets/2a26f232-c9e3-4b75-a90d-07988f148a5e)
+![image](https://github.com/user-attachments/assets/2a26f232-c9e3-4b75-a90d-07988f148a5e)  
+
 原仓库下载地址：  
 
     https://github.com/atom0s/Steamless/releases/latest
@@ -18,7 +19,8 @@
 
     https://github.com/jiang0681/unsteam/releases/download/paks/Steamless.v3.1.0.5.-.by.atom0s.zip
 双击steamless.exe应用程序，导入你想要剥壳的游戏B.exe文件(以Miside Demo举例)  
-![image](https://github.com/user-attachments/assets/ac08f9b8-fa2e-438d-a542-86acb097e02c)
+![image](https://github.com/user-attachments/assets/ac08f9b8-fa2e-438d-a542-86acb097e02c)  
+
 点击Unpack File即可得到剥壳后的游戏B_unpacked.exe，双击它即可直接启动游戏B。  
 适用游戏：东方冰之勇者记，等。  
 附：Steamless的原仓库地址：  
@@ -27,7 +29,8 @@
 
 ## 三、steamclient_loader套壳  
 下载steamclient_loader并解压，得到下列文件：  
-![image](https://github.com/user-attachments/assets/f3d947ed-df63-4930-a0eb-9559fe7dff83)
+![image](https://github.com/user-attachments/assets/f3d947ed-df63-4930-a0eb-9559fe7dff83)  
+
 下载地址：  
 
     https://github.com/jiang0681/unsteam/releases/download/paks/steamclient_loader.zip
@@ -35,7 +38,8 @@
 填写AppId，在steam商店页面找得到；  
 填写Exe=游戏启动程序名，程序在"\Steam安装目录\steamapps\common\游戏C名称\"里；  
 这里用双影奇境演示一遍：  
-![image](https://github.com/user-attachments/assets/831b8449-5117-4521-93db-42d656f2837c)
+![image](https://github.com/user-attachments/assets/831b8449-5117-4521-93db-42d656f2837c)  
+
 保存ini文件，双击steamclient_loader.exe即可运行游戏C。   
 适用游戏：大部分steam游戏。  
 附：goldberg_emulator启动器原仓库地址：  
