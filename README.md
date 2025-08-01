@@ -69,7 +69,7 @@ steamclient_loader.exe即来源于此。
 ## 五、GSE进阶
 用GSE提供的steam_api64.dll替换掉原来的dll，双击原来的exe有可能可以直接启动。  
 
-文件在“三、”的附加链接里。  
+文件在“三、”的goldberg_emulator启动器原仓库地址附加链接里。  
 ## 六、上述都不行的，放弃。  
 
   
