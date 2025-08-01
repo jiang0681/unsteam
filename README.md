@@ -75,8 +75,8 @@ steamclient_loader.exe即来源于此。
   
 # 一般流程  
 #### 1、直接双击试试。  
-#### 2、如果不行，用Steamless剥壳。  
-##### 2.a、Steamless剥壳提示失败(有红字)，进3、  
-##### 2.b、Steamless剥壳成功，但直接双击游戏运行报错，进3、   
-#### 3、用steamclient_loader套壳，可以结合“四、”试试  
-#### 4、替换steam_api64.dll试试
+#### 2、替换steam_api64.dll试试
+#### 3、如果不行，用Steamless剥壳。  
+##### 2.a、Steamless剥壳提示失败(有红字)，进4、  
+##### 2.b、Steamless剥壳成功，但直接双击游戏运行报错，进4、   
+#### 4、用steamclient_loader套壳
